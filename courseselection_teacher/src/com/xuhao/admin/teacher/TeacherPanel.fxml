@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.xuhao.admin.teacher.TeacherController">
+   <children>
+      <SplitPane dividerPositions="0.2814070351758794" layoutX="120.0" layoutY="90.0" orientation="VERTICAL" prefHeight="400.0" prefWidth="400.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <HBox layoutX="115.0" layoutY="72.0" spacing="10.0">
+                     <children>
+                        <Button layoutX="59.0" layoutY="76.0" mnemonicParsing="false" onAction="#teacherInfoBtnAction" text="添加/修改教师" />
+                        <Button layoutX="259.0" layoutY="76.0" mnemonicParsing="false" onAction="#deleteBtnAction" text="删除教师" />
+                     </children>
+                  </HBox>
+                  <Button fx:id="tSearchBtn" layoutX="299.0" layoutY="29.0" mnemonicParsing="false" onAction="#tSearchBtnAction" text="搜索" />
+                  <Text layoutX="27.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="教师姓名 或 ID：" />
+                  <TextField fx:id="tSearchText" layoutX="119.0" layoutY="30.0" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <TableView fx:id="tTable" layoutX="70.0" layoutY="-21.0" prefHeight="193.0" prefWidth="398.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <columns>
+                      <TableColumn fx:id="tId" prefWidth="75.0" text="ID" />
+                      <TableColumn fx:id="tName" prefWidth="75.0" text="姓名" />
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

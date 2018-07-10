@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="courseselection:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37e1d858-cca4-4aba-9d73-7062538edc18" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Sql.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xuhao/sql/Sql.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getUserName#0;class#Sql#0" />
+                <element signature="method#insertCourse#0;class#Sql#0" />
+                <element signature="method#getAllCourse#0;class#Sql#0" />
+                <element signature="method#searchCourse#0;class#Sql#0" />
+                <element signature="method#changeCourse#0;class#Sql#0" />
+                <element signature="method#deleteCourse#0;class#Sql#0" />
+                <element signature="method#getAllStudent#0;class#Sql#0" />
+                <element signature="method#changeStudent#0;class#Sql#0" />
+                <element signature="method#deleteStudent#0;class#Sql#0" />
+                <element signature="method#getAllTeacher#0;class#Sql#0" />
+                <element signature="method#changeTeacher#0;class#Sql#0" />
+                <element signature="method#deleteTeacher#0;class#Sql#0" />
+                <element signature="method#getTakenCourse#0;class#Sql#0" />
+                <element signature="method#takeCourse#0;class#Sql#0" />
+                <element signature="method#cancelCourse#0;class#Sql#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xuhao/sql/SqlBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/xuhao/main/MainPage.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/main/main.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/login/LoginFXMLController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/login/LoginFXML.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/login/LL.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/login/Login.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/teacher/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/student/StudentPanel.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherPanel.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/student/StudentPage.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/sql/sql.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/Admin.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/student/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/sql/create.sql" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/Admin.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/course/Course.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/course/CourseTable.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/student/StudentTable.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherTable.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherInfo.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/student/StudentInfo.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/course/CourseInfo.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/course/CourseInfoController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/course/CoursePanel.fxml" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherInfoController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/student/StudentInfoController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/student/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/course/CourseController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/student/StudentTable.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/student/StudentPage.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/student/StudentPageController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/login/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/sql/SqlBase.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/sql/Sql.java" />
+        <option value="$PROJECT_DIR$/src/com/xuhao/login/Login.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="444" />
+    <option name="y" value="71" />
+    <option name="width" value="779" />
+    <option name="height" value="472" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="courseselection - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseselection - 副本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseselection - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseselection - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseselection - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseselection - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xuhao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseselection - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseselection - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xuhao" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseselection - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseselection - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xuhao" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="courseselection - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="courseselection - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xuhao" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../courseselection" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\courseselection\src\com\xuhao\teacher" />
+      <recent name="D:\JAVA\courseselection\src\com\xuhao\login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhao.login.Login" />
+      <module name="courseselection_client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhao.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhao.main.Main" />
+      <module name="courseselection_client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhao.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Login" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37e1d858-cca4-4aba-9d73-7062538edc18" name="Default" comment="" />
+      <created>1529896229788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529896229788</updated>
+      <workItem from="1529896231881" duration="23965000" />
+      <workItem from="1529984036654" duration="5495000" />
+      <workItem from="1530263939535" duration="24000" />
+      <workItem from="1530282999296" duration="1638000" />
+      <workItem from="1530340446885" duration="3428000" />
+      <workItem from="1530344150054" duration="108000" />
+      <workItem from="1530345660347" duration="8157000" />
+      <workItem from="1530413838100" duration="3616000" />
+      <workItem from="1530426591866" duration="314000" />
+      <workItem from="1530427068493" duration="10803000" />
+      <workItem from="1530450255557" duration="3314000" />
+      <workItem from="1530496513979" duration="4870000" />
+      <workItem from="1530514634807" duration="1199000" />
+      <workItem from="1530516661239" duration="149000" />
+      <workItem from="1530536071569" duration="191000" />
+      <workItem from="1530538125718" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9161677" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Learn" order="2" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3297414" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3297414" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17590618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Learn" order="2" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/courseselection_client.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CourseController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/AdminController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentPage.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CourseInfo.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CourseController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/Admin.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/sql/Sql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="93" column="33" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getUserName#0;class#Sql#0" />
+            <element signature="method#insertCourse#0;class#Sql#0" />
+            <element signature="method#getAllCourse#0;class#Sql#0" />
+            <element signature="method#searchCourse#0;class#Sql#0" />
+            <element signature="method#changeCourse#0;class#Sql#0" />
+            <element signature="method#deleteCourse#0;class#Sql#0" />
+            <element signature="method#getAllStudent#0;class#Sql#0" />
+            <element signature="method#changeStudent#0;class#Sql#0" />
+            <element signature="method#deleteStudent#0;class#Sql#0" />
+            <element signature="method#getAllTeacher#0;class#Sql#0" />
+            <element signature="method#changeTeacher#0;class#Sql#0" />
+            <element signature="method#deleteTeacher#0;class#Sql#0" />
+            <element signature="method#getTakenCourse#0;class#Sql#0" />
+            <element signature="method#takeCourse#0;class#Sql#0" />
+            <element signature="method#cancelCourse#0;class#Sql#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DatabaseFinal/DatabaseFinal.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/main/main.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/Login.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/LL.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/teacher/Teacher.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/46416e30-5905-41c0-8d1e-ce274cde5936/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/Login.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="88" lean-forward="true" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/student/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/Admin.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/student/StudentPanel.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherPanel.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/Admin.java" />
+    <entry file="file://$PROJECT_DIR$/courseselection_client.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/Course.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/javafx-src.zip!/javafx/util/Callback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CourseTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherInfo.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/student/StudentInfo.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/sql/create.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="73" column="12" lean-forward="true" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/AdminController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CoursePanel.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/student/StudentTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CourseInfo.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherInfoController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CourseController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/student/StudentInfoController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/course/CourseInfoController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/student/StudentController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/admin/teacher/TeacherController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/student/StudentPage.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/sql/SqlBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/sql/Sql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getUserName#0;class#Sql#0" />
+            <element signature="method#insertCourse#0;class#Sql#0" />
+            <element signature="method#getAllCourse#0;class#Sql#0" />
+            <element signature="method#searchCourse#0;class#Sql#0" />
+            <element signature="method#changeCourse#0;class#Sql#0" />
+            <element signature="method#deleteCourse#0;class#Sql#0" />
+            <element signature="method#getAllStudent#0;class#Sql#0" />
+            <element signature="method#changeStudent#0;class#Sql#0" />
+            <element signature="method#deleteStudent#0;class#Sql#0" />
+            <element signature="method#getAllTeacher#0;class#Sql#0" />
+            <element signature="method#changeTeacher#0;class#Sql#0" />
+            <element signature="method#deleteTeacher#0;class#Sql#0" />
+            <element signature="method#getTakenCourse#0;class#Sql#0" />
+            <element signature="method#takeCourse#0;class#Sql#0" />
+            <element signature="method#cancelCourse#0;class#Sql#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xuhao/login/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>courseselection:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>courseselection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

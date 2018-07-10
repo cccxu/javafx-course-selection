@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.xuhao.student.StudentPageController">
+   <children>
+      <SplitPane dividerPositions="0.29797979797979796" layoutX="181.0" layoutY="120.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <VBox alignment="CENTER" layoutX="38.0" layoutY="84.0" prefHeight="398.0" prefWidth="175.0" spacing="30.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Text fx:id="theId" fill="#2237ee" strokeType="OUTSIDE" strokeWidth="0.0" />
+                        <Button alignment="CENTER" blendMode="SRC_ATOP" mnemonicParsing="false" onAction="#showCourse" prefHeight="50.0" prefWidth="100.0" text="显示已选课表" />
+                        <Button alignment="CENTER" blendMode="SRC_ATOP" mnemonicParsing="false" onAction="#searchCourse" prefHeight="50.0" prefWidth="100.0" text="查询课程" />
+                        <Button alignment="CENTER" blendMode="SRC_ATOP" mnemonicParsing="false" onAction="#takeCourse" prefHeight="50.0" prefWidth="100.0" text="选择课程" />
+                        <Button alignment="CENTER" blendMode="SRC_ATOP" mnemonicParsing="false" onAction="#cancelCourse" prefHeight="50.0" prefWidth="100.0" text="退选课程" />
+                     </children>
+                  </VBox>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <TextField fx:id="idText" layoutX="209.0" layoutY="77.0" />
+                  <Text layoutX="78.0" layoutY="93.0" strokeType="OUTSIDE" strokeWidth="0.0" text="输入课程编号：" />
+                  <TableView fx:id="table" layoutY="199.0" prefHeight="200.0" prefWidth="417.0">
+                    <columns>
+                      <TableColumn fx:id="id" prefWidth="75.0" text="课程编号" />
+                        <TableColumn fx:id="name" prefWidth="75.0" text="课程名称" />
+                      <TableColumn fx:id="teacher" prefWidth="75.0" text="教师" />
+                        <TableColumn fx:id="point" prefWidth="75.0" text="学分" />
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

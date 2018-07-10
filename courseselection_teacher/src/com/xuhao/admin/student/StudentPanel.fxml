@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.xuhao.admin.student.StudentController">
+   <children>
+      <SplitPane dividerPositions="0.2964824120603015" layoutX="229.0" layoutY="100.0" orientation="VERTICAL" prefHeight="400.0" prefWidth="400.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <VBox alignment="CENTER" layoutX="329.0" layoutY="25.0" spacing="20.0" />
+                  <HBox layoutX="115.0" layoutY="78.0" spacing="10.0">
+                     <children>
+                        <Button layoutX="86.0" layoutY="101.0" mnemonicParsing="false" onAction="#changeStudentBtnAction" text="添加/修改学生" />
+                        <Button layoutX="280.0" layoutY="100.0" mnemonicParsing="false" onAction="#deleteBtnAction" text="删除学生" />
+                     </children>
+                  </HBox>
+                  <Text layoutX="27.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="学生姓名 或 ID：" />
+                  <TextField fx:id="searchText" layoutX="119.0" layoutY="30.0" />
+                  <Button layoutX="305.0" layoutY="30.0" mnemonicParsing="false" onAction="#tSearchBtnAction" text="搜索" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <TableView fx:id="sTable" layoutX="112.0" prefHeight="235.0" prefWidth="398.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <columns>
+                      <TableColumn fx:id="sId" prefWidth="77.0" text="ID" />
+                      <TableColumn fx:id="sName" prefWidth="52.0" text="姓名" />
+                        <TableColumn fx:id="sGender" minWidth="0.0" prefWidth="83.0" text="性别" />
+                        <TableColumn fx:id="sMajor" prefWidth="81.0" text="专业" />
+                        <TableColumn fx:id="sYear" prefWidth="98.0" text="入学年份" />
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
